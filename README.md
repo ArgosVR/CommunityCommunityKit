@@ -17,3 +17,4 @@ If you modify these assets for your own project, please consider contributing ba
 ---
 
 Most of these assets are RAD IP, so be respectful and responsible when using them in your projects.
+Please note, if you read this, youre a nerd
