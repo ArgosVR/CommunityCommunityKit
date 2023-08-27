@@ -1,6 +1,6 @@
 # Community Community Kit
 
-RAD has provided a Commnity Kit for EchoVR-related assets [here](https://readyatdawn.sharefile.com/share/view/s29f663b300e245d9871aecabc3dae4c7).
+RAD has provided a Community Kit for EchoVR-related assets [here](https://readyatdawn.sharefile.com/share/view/s29f663b300e245d9871aecabc3dae4c7).
 
 This has more stuff.
 
